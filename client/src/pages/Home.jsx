@@ -1,6 +1,7 @@
 import Card from "../components/ui/Card";
 import Carousel from "../components/ui/Carousel";
 import clsx from "clsx";
+import fetchAnime from "../services/fetchAnime";
 import { useEffect, useState } from "react";
 function Home() {
   const [data, setData] = useState([]);
@@ -11,17 +12,8 @@ function Home() {
   const firstIndex = lastIndex - itemsPerPage;
   const items = data.slice(firstIndex, lastIndex);
 
-  async function fetchAnime() {
-    await fetch("http://localhost:3000/anime")
-      .then(async (data) => {
-        return await data.json();
-      })
-      .then((data) => {
-        setData(data);
-      });
-  }
   useEffect(() => {
-    fetchAnime();
+    fetchAnime().then((data) => setData(data));
   }, []);
 
   const pageNumbers = [];
