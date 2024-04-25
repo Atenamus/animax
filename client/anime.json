@@ -1,0 +1,184 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "name": "Attack on Titan",
+      "episodes": 75,
+      "rating": 9.0
+    },
+    {
+      "id": 2,
+      "name": "Naruto",
+      "episodes": 220,
+      "rating": 8.3
+    },
+    {
+      "id": 3,
+      "name": "One Piece",
+      "episodes": 1000,
+      "rating": 8.7
+    },
+    {
+      "id": 4,
+      "name": "My Hero Academia",
+      "episodes": 104,
+      "rating": 8.5
+    },
+    {
+      "id": 5,
+      "name": "Demon Slayer",
+      "episodes": 26,
+      "rating": 8.9
+    },
+    {
+      "id": 6,
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "episodes": 64,
+      "rating": 9.1
+    },
+    {
+      "id": 7,
+      "name": "Death Note",
+      "episodes": 37,
+      "rating": 9.0
+    },
+    {
+      "id": 8,
+      "name": "Dragon Ball Z",
+      "episodes": 291,
+      "rating": 8.6
+    },
+    {
+      "id": 9,
+      "name": "Hunter x Hunter",
+      "episodes": 148,
+      "rating": 9.1
+    },
+    {
+      "id": 10,
+      "name": "Sword Art Online",
+      "episodes": 97,
+      "rating": 7.6
+    },
+    {
+      "id": 11,
+      "name": "Fairy Tail",
+      "episodes": 328,
+      "rating": 8.1
+    },
+    {
+      "id": 12,
+      "name": "Bleach",
+      "episodes": 366,
+      "rating": 7.9
+    },
+    {
+      "id": 13,
+      "name": "Tokyo Ghoul",
+      "episodes": 48,
+      "rating": 8.0
+    },
+    {
+      "id": 14,
+      "name": "Steins;Gate",
+      "episodes": 24,
+      "rating": 9.1
+    },
+    {
+      "id": 15,
+      "name": "Code Geass: Lelouch of the Rebellion",
+      "episodes": 50,
+      "rating": 8.7
+    },
+    {
+      "id": 16,
+      "name": "Cowboy Bebop",
+      "episodes": 26,
+      "rating": 8.8
+    },
+    {
+      "id": 17,
+      "name": "Neon Genesis Evangelion",
+      "episodes": 26,
+      "rating": 8.5
+    },
+    {
+      "id": 18,
+      "name": "Clannad",
+      "episodes": 23,
+      "rating": 8.2
+    },
+    {
+      "id": 19,
+      "name": "Your Lie in April",
+      "episodes": 22,
+      "rating": 8.6
+    },
+    {
+      "id": 20,
+      "name": "Attack on Titan: Junior High",
+      "episodes": 12,
+      "rating": 7.3
+    },
+    {
+      "id": 21,
+      "name": "Tokyo Revengers",
+      "episodes": 24,
+      "rating": 8.5
+    },
+    {
+      "id": 22,
+      "name": "Jujutsu Kaisen",
+      "episodes": 24,
+      "rating": 8.7
+    },
+    {
+      "id": 23,
+      "name": "Re:Zero − Starting Life in Another World",
+      "episodes": 50,
+      "rating": 8.2
+    },
+    {
+      "id": 24,
+      "name": "The Rising of the Shield Hero",
+      "episodes": 25,
+      "rating": 7.8
+    },
+    {
+      "id": 25,
+      "name": "Black Clover",
+      "episodes": 170,
+      "rating": 7.2
+    },
+    {
+      "id": 26,
+      "name": "My Teen Romantic Comedy SNAFU",
+      "episodes": 26,
+      "rating": 8.1
+    },
+    {
+      "id": 27,
+      "name": "Violet Evergarden",
+      "episodes": 14,
+      "rating": 8.4
+    },
+    {
+      "id": 28,
+      "name": "The Promised Neverland",
+      "episodes": 23,
+      "rating": 8.6
+    },
+    {
+      "id": 29,
+      "name": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
+      "episodes": 7,
+      "rating": 8.9
+    },
+    {
+      "id": 30,
+      "name": "Dragon Ball Super",
+      "episodes": 131,
+      "rating": 7.7
+    }
+  ]
+}
