@@ -4,103 +4,120 @@
       "id": 1,
       "name": "Attack on Titan",
       "episodes": 75,
-      "rating": 9.0
+      "rating": 9.0,
+      "img": "https://gogocdn.net/images/anime/Shingeki-no-Kyojin.jpg"
     },
     {
       "id": 2,
       "name": "Naruto",
       "episodes": 220,
-      "rating": 8.3
+      "rating": 8.3,
+      "img": "https://gogocdn.net/images/anime/N/naruto.jpg"
     },
     {
       "id": 3,
       "name": "One Piece",
       "episodes": 1000,
-      "rating": 8.7
+      "rating": 8.7,
+      "img": "https://gogocdn.net/cover/one-piece-1708412053.png"
     },
     {
       "id": 4,
       "name": "My Hero Academia",
       "episodes": 104,
-      "rating": 8.5
+      "rating": 8.5,
+      "img": "https://gogocdn.net/cover/boku-no-hero-academia.jpg"
     },
     {
       "id": 5,
       "name": "Demon Slayer",
       "episodes": 26,
-      "rating": 8.9
+      "rating": 8.9,
+      "img": "https://gogocdn.net/cover/kimetsu-no-yaiba.png"
     },
     {
       "id": 6,
       "name": "Fullmetal Alchemist: Brotherhood",
       "episodes": 64,
-      "rating": 9.1
+      "rating": 9.1,
+      "img": "https://gogocdn.net/images/anime/F/fullmetal-alchemist-brotherhood.jpg"
     },
     {
       "id": 7,
       "name": "Death Note",
       "episodes": 37,
-      "rating": 9.0
+      "rating": 9.0,
+      "img": "https://gogocdn.net/cover/death-note.png"
     },
     {
       "id": 8,
       "name": "Dragon Ball Z",
       "episodes": 291,
-      "rating": 8.6
+      "rating": 8.6,
+      "img": "https://gogocdn.net/images/anime/D/dragonball-z.jpg"
     },
     {
       "id": 9,
       "name": "Hunter x Hunter",
       "episodes": 148,
-      "rating": 9.1
+      "rating": 9.1,
+      "img": "https://gogocdn.net/images/anime/H/hunter_x_hunter.jpg"
     },
     {
       "id": 10,
       "name": "Sword Art Online",
       "episodes": 97,
-      "rating": 7.6
+      "rating": 7.6,
+      "img": "https://gogocdn.net/images/anime/S/sword-art-online.jpg"
     },
     {
       "id": 11,
       "name": "Fairy Tail",
       "episodes": 328,
-      "rating": 8.1
+      "rating": 8.1,
+      "img": "https://gogocdn.net/images/anime/F/fairy-tail.jpg"
     },
     {
       "id": 12,
       "name": "Bleach",
       "episodes": 366,
-      "rating": 7.9
+      "rating": 7.9,
+      "img": "https://gogocdn.net/images/anime/B/bleach.jpg"
     },
     {
       "id": 13,
       "name": "Tokyo Ghoul",
       "episodes": 48,
-      "rating": 8.0
+      "rating": 8.0,
+      "img": "https://gogocdn.net/images/summer/Tokyo%20Ghoul.jpg"
     },
     {
       "id": 14,
       "name": "Steins;Gate",
       "episodes": 24,
-      "rating": 9.1
+      "rating": 9.1,
+      "img": "https://gogocdn.net/images/anime/S/Steins-Gate.jpg"
     },
     {
       "id": 15,
       "name": "Code Geass: Lelouch of the Rebellion",
       "episodes": 50,
-      "rating": 8.7
+      "rating": 8.7,
+      "img": "https://gogocdn.net/images/anime/C/code-geass-lelouch-of-the-rebellion-r2.jpg"
     },
     {
       "id": 16,
       "name": "Cowboy Bebop",
       "episodes": 26,
-      "rating": 8.8
+      "rating": 8.8,
+      "img": "https://gogocdn.net/images/anime/C/cowboy_bebop.jpg"
     },
     {
       "id": 17,
       "name": "Neon Genesis Evangelion",
       "episodes": 26,
-      "rating": 8.5
+      "rating": 8.5,
+      "img": "https://gogocdn.net/images/anime/N/neon-genesis-evangelion.jpg"
     },
     {
       "id": 18,
@@ -112,43 +129,50 @@
       "id": 19,
       "name": "Your Lie in April",
       "episodes": 22,
-      "rating": 8.6
+      "rating": 8.6,
+      "img": "https://gogocdn.net/images/fall/Shigatsu%20wa%20Kimi%20no%20Uso.jpg"
     },
     {
       "id": 20,
       "name": "Attack on Titan: Junior High",
       "episodes": 12,
-      "rating": 7.3
+      "rating": 7.3,
+      "img": "https://gogocdn.net/images/upload/75467.jpg"
     },
     {
       "id": 21,
       "name": "Tokyo Revengers",
       "episodes": 24,
-      "rating": 8.5
+      "rating": 8.5,
+      "img": "https://gogocdn.net/cover/tokyo-revengers.png"
     },
     {
       "id": 22,
       "name": "Jujutsu Kaisen",
       "episodes": 24,
-      "rating": 8.7
+      "rating": 8.7,
+      "img": "https://gogocdn.net/cover/jujutsu-kaisen-tv.png"
     },
     {
       "id": 23,
       "name": "Re:Zero − Starting Life in Another World",
       "episodes": 50,
-      "rating": 8.2
+      "rating": 8.2,
+      "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.png"
     },
     {
       "id": 24,
       "name": "The Rising of the Shield Hero",
       "episodes": 25,
-      "rating": 7.8
+      "rating": 7.8,
+      "img": "The Rising of the Shield Hero"
     },
     {
       "id": 25,
       "name": "Black Clover",
       "episodes": 170,
-      "rating": 7.2
+      "rating": 7.2,
+      "img": "https://gogocdn.net/cover/black-clover-tv.png"
     },
     {
       "id": 26,
@@ -160,25 +184,29 @@
       "id": 27,
       "name": "Violet Evergarden",
       "episodes": 14,
-      "rating": 8.4
+      "rating": 8.4,
+      "img": "https://gogocdn.net/cover/violet-evergarden.png"
     },
     {
       "id": 28,
       "name": "The Promised Neverland",
       "episodes": 23,
-      "rating": 8.6
+      "rating": 8.6,
+      "img": "https://gogocdn.net/cover/yakusoku-no-neverland.png"
     },
     {
       "id": 29,
       "name": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
       "episodes": 7,
-      "rating": 8.9
+      "rating": 8.9,
+      "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-mugen-ressha-hen.png"
     },
     {
       "id": 30,
       "name": "Dragon Ball Super",
       "episodes": 131,
-      "rating": 7.7
+      "rating": 7.7,
+      "img": "https://gogocdn.net/images/upload/dragon_ball_s.jpg"
     }
   ]
 }

@@ -4,7 +4,7 @@ import clsx from "clsx";
 import { useEffect, useState } from "react";
 function Home() {
   const [data, setData] = useState([]);
-  const [currentPage, setCurrentPage] = useState(3);
+  const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
 
   const lastIndex = currentPage * itemsPerPage;
@@ -25,7 +25,7 @@ function Home() {
   }, []);
 
   const pageNumbers = [];
-  for (let i = 1; i <= data.length / 5; i++) {
+  for (let i = 1; i <= data.length / itemsPerPage; i++) {
     pageNumbers.push(i);
   }
 
@@ -35,17 +35,12 @@ function Home() {
   return (
     <div className="container mx-auto">
       <Carousel />
-      <div className="grid lg:grid-cols-5 gap-4">
-        {items.map((anime) => {
-          return <Card key={anime.id} {...anime} />;
-        })}
-      </div>
       <div className="join">
         {pageNumbers.map((page, index) => {
           return (
             <button
               className={clsx("join-item  btn", {
-                "btn-active": currentPage === page,
+                "btn-active ": currentPage === page,
               })}
               key={index}
               onClick={() => handlePageChange(page)}
@@ -53,6 +48,11 @@ function Home() {
               {page}
             </button>
           );
+        })}
+      </div>
+      <div className="grid lg:grid-cols-5 gap-4">
+        {items.map((anime) => {
+          return <Card key={anime.id} {...anime} />;
         })}
       </div>
     </div>
